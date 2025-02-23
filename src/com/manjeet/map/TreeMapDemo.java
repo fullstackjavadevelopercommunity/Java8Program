@@ -17,7 +17,7 @@ public class TreeMapDemo {
         sortedMap.put("Raju",141);
         sortedMap.put("Satish",151);
         sortedMap.put("Nitish",161);
-        sortedMap.put("Jyotish",171);
+        sortedMap.put(" Jyotish",171);
 
         String firstKey1 = sortedMap.firstKey();
         System.out.println("firstKey : "+firstKey1);

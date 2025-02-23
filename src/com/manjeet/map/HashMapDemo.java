@@ -12,7 +12,7 @@ public class HashMapDemo {
         HashMap<Integer, String> map = new HashMap<>();
         map.put(101,"Manjeet");
         map.put(111,"Ranjeet");
-        map.put(121,"Sanjeet");
+        map.put(121," Sanjeet");
         map.put(131,"Raju");
         map.put(141,"Raju");
         map.put(151,"Satish");

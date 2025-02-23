@@ -19,7 +19,7 @@ public class ArrayListDemo {
         }
         //2 way
         for(String s : arrayList)
-            System.out.println("ArrayList " + s);
+            System.out.println(" ArrayList " + s);
         //3 way
         arrayList.forEach(System.out::println);
         //4 way

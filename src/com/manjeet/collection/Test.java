@@ -16,7 +16,7 @@ public class Test {
         String[] str={"Apply","cherry","banana"};
         List<String> list1 = Arrays.asList(str);
         List<String> arrayList = new ArrayList<>(list1);
-        arrayList.add("mango");
+        arrayList.add(" mango");
         System.out.println("arrayList : "+arrayList);
         boolean mango2 = arrayList.add("mango");
         System.out.println("mango2 : "+mango2);

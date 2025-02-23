@@ -16,7 +16,7 @@ public class InterviewPrograms {
         System.out.println(collect);
         System.out.println("------------");
         list.stream().filter(x->x%2==0).forEach(System.out::println);
-        System.out.println("------------");
+        System.out.println("---------------");
         Arrays.stream(arr).boxed().filter(x->x%2==0).forEach(System.out::println);
     }
 }

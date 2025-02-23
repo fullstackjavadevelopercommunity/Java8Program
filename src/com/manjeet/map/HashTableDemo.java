@@ -31,7 +31,7 @@ public class HashTableDemo {
             throw new RuntimeException(e);
         }
 
-        System.out.println("Final Size of HashTable : "+hashtable.size());
+        System.out.println("Final  Size of HashTable : "+hashtable.size());
 
     }
 }

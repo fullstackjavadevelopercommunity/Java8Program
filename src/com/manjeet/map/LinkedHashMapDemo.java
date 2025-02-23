@@ -15,7 +15,7 @@ public class LinkedHashMapDemo {
         linkedHashMap.put(131,"Raju");
         linkedHashMap.put(141,"Raju");
         linkedHashMap.put(151,"Satish");
-        linkedHashMap.put(161,"Nitish");
+        linkedHashMap.put(161," Nitish");
         linkedHashMap.put(171,"Jyotish");
         System.out.println("linkedHashMap : "+linkedHashMap);
         Set<Map.Entry<Integer, String>> entries = linkedHashMap.entrySet();
